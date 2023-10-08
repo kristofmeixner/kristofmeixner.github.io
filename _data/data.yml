@@ -17,13 +17,13 @@ languages:
   - idiom: Italian
 
 education:
-  - degree: MSc in Business Informatics (Dipl.-Ing.)
+  - degree: MSc in Business Informatics
     time: 2011-2018
-    university: Vienna University of Technology, Vienna, Austria
+    university: TU Wien, Vienna, Austria
 
   - degree: BSc in Business Informatics
     time: 2011
-    university: Vienna University of Technology, Vienna, Austria
+    university: TU Wien, Vienna, Austria
 
 skills:
   - category: Backend
@@ -53,8 +53,8 @@ experience:
     company: Christian Doppler Laboratory for Security and Quality Improvement in Production Systems, Vienna, Austria
     details: | 
       Research on a Framework for Reuse and Variability Management integrating Feature and Decision Models for Cyber-Physical Production Systems Engineering.
-      Research on a Framework for Capabilities and Skills for Cyber-Physical Production Systems Engineering.
-      Research on a Test Automation Framework for flexible integration of technologies and tools for Software Testing.
+      • Research on a Framework for Capabilities and Skills for Cyber-Physical Production Systems Engineering.
+      • Research on a Test Automation Framework for flexible integration of technologies and tools for Software Testing.
       Establishing of two international research collaborations in the field of Product Line Engineering for Cyber-Physical Production Systems.
       Organizer of the Special Sessions of Software Engineering for Cyber-Physical Production Systems and Capabilities and Skills for Systems Engineering.
       Supervision of students, their theses and work experiences.
@@ -134,7 +134,7 @@ experience:
 
   - role: Tutor
     time: Oct 2007 – Mar 2011
-    company: Vienna University of Technology – QSE, Vienna, Austria
+    company: TU Wien – QSE, Vienna, Austria
     details: | 
       Support and mentoring of several student groups (4-10 people) in the lectures 'Software Engineering and Project Management' and 'Advanced Software Engineering'.
       Quality assurance and approval of lecture artifacts (code, project management, documentation).
