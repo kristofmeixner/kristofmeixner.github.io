@@ -1,108 +1,198 @@
-name: John Doe
+name: Kristof Meixner
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
+  email: kristof.meixner@fatlenny.net
+  github: kristofmeixner
+  linkedin: kristofmeixner
+  phone: 0043 664 1016454
+  # gitlab: 
   twitter: 
 
 languages:
+  - idiom: German
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Italian
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: MSc in Business Informatics (Dipl.-Ing.)
+    time: 2011-2018
+    university: Vienna University of Technology, Vienna, Austria
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: BSc in Business Informatics
+    time: 2011
+    university: Vienna University of Technology, Vienna, Austria
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
+      - Java
+      # - Rust
+  # - category: Frontend
+  #   skill:
+  #     - React
+  #     - Typescript
   - category: DevOps
     skill:
-      - Docker
-      - Kubernetes 
+      - Jenkins
+      - Artifactory
+  - category: Build tools
+    skill:
+      - Maven
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Researcher on Model-based (Software) Product Line Engineering for Cyber-Physical Production Systems and IT professional with strong problem solving skills, a wide range of knowledge in software development and project management as well as several years of work experience.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+
+  - role: Researcher and PhD candidate
+    time: Mar 2018 – current
+    company: Christian Doppler Laboratory for Security and Quality Improvement in Production Systems, Vienna, Austria
+    details: | 
+      Research on a Framework for Reuse and Variability Management integrating Feature and Decision Models for Cyber-Physical Production Systems Engineering.
+      Research on a Framework for Capabilities and Skills for Cyber-Physical Production Systems Engineering.
+      Research on a Test Automation Framework for flexible integration of technologies and tools for Software Testing.
+      Establishing of two international research collaborations in the field of Product Line Engineering for Cyber-Physical Production Systems.
+      Organizer of the Special Sessions of Software Engineering for Cyber-Physical Production Systems and Capabilities and Skills for Systems Engineering.
+      Supervision of students, their theses and work experiences.
+      Regular consulting on Maven, JIRA and JFrog Artifactory for industry partners.
+  technologies_used: Java, Eclipse RCP, Eclipse EMF, OMG ASTM, Gherkin, JIRA-Development, Spring Boot
+  # Reference: Dr. Edgar Weippl, Dr. Stefan Biffl
+
+  - role: Freelancer
+    time: Sep 2003 – current
+    company: Various customers
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Design and implementation of prototypes.
+      Consulting on computer systems, networking and websites.
+      Support and trouble shooting for computers and websites.
     technologies_used: | 
-      Go, Angular, Typescript, C++
-  
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+      Java, HTML, PHP, JavaScript, Adobe InDesign, Adobe Illustrator
+
+  - role: ICT Consultant
+    time: Sep 2003 – Jan 2019
+    company: Kleintierklinik Breitensee, Vienna, Austria
+    details: | 
+      Consulting on computer systems, networking and internet presence.
+      Support and trouble shooting for servers, infrastructure and internet presence.
+      Design and creation of corporate design materials (workshop posters and programs, folders, ...).
+    technologies_used: | 
+      Windows Server 2003, Windows XP/7, Apple Mac, Netgear Routers & Switches, HTML, PHP, JavaScript, Adobe InDesign, Adobe Illustrator
+
+  - role: Software Developer
+    time: Jan 2018 – Feb 2018
+    company: Christian Doppler Laboratory for Security and Quality Improvement in Production Systems, Vienna, Austria
+    details: | 
+      Development of a prototype for  automated creation of tests from legacy code via an Abstract Syntax Tree.
+    technologies_used: | 
+      Java, Eclipse RCP, Eclipse EMF, OMG ASTM
+
+  - role: Software Consultant
+    time: Jan 2017 – Dec 2017
+    company: logi.cals, St. Pölten, Austria
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Consulting for AML.hub Development and Build Automation
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Java, Jenkins
+    # Reference: Heinrich Steininger, Cristopher Steele
+
+  - role: Software Developer
+    time: May 2017 – Dec 2017
+    company: Quality Software Engineering - Information and Software Engineering Group, Vienna, Austria
+    details: |
+      Development of a prototype for the creation of ‚Behaviour-Driven-Tests‘ for robot simulations in JIRA
+    technologies_used: | 
+      Java, Gherkin, JIRA-Development, Spring Boot
+    # Reference: Dr. Stefan Biffl
+
+  - role: Software Developer and Lead Software Developer
+    time: Jan 2010 – Dec 2016
+    company: Christian Doppler Laboratory for Flexible Automation Systems, Vienna, Austria
+    details: | 
+    Multifaceted role in project management, development, and technical leadership. Key responsibilities and contributions include:
+        Stakeholder Engagement: Regularly attending stakeholder and partner meetings for project planning and progress reporting, ensuring effective communication and alignment.
+        Customer-Centric Approach: Active involvement in customer meetings and support sessions enabled a deeper understanding of customer needs, facilitating tailored solutions.
+        Project Planning and Architecture: Pivotal role in planning, architecting, and estimating efforts for features and components, ensuring structured project execution.
+        Agile Project Management: Responsible for sprint planning, defining developer roles, and coordinating external developers, promoting Agile practices for efficient project delivery.
+        Release Management: Release planning and version management, ensuring high-quality, timely software deliveries.
+        Leadership and Collaboration: Leading Scrum, status, and architectural meetings with a diverse team of 5+ developers, fostering collaboration and maintaining project focus.
+        Quality Assurance: Gatekeeper for feature and component integration, ensuring that deliverables met defined criteria before release.
+        Under Pressure Delivery: Even under high-pressure situations, I maintained responsibility for releasing high-quality artifacts to customers.
+        Documentation: Technical documentation for both developers and customers, enhancing project understanding and implementation.
+        Infrastructure Oversight: Managing 250+ repositories with interdependencies ensured their stability and accessibility.
+        Tool and Environment Setup: Design, implementation, and administration a comprehensive tool and development environment, optimizing team productivity.
+        Quality Assurance and CI/CD: Implementation of a robust quality assurance and continuous integration system, integrating tools like Maven, Checkstyle, PMD, FindBugs, Selenium, and Jenkins for efficient software development.
+        Technical Support: Regular technical support to partner companies, for Git, Maven, Jenkins, and Apache Karaf-related issues.
+        Open Source Contribution: Valuable contributions to Open Source projects like Apache Karaf, Pax Wicket, Jenkins Plugins, and Smooks leading to authorization for releases at ops4j, OpenEngSB, and CDLFlex.
+    These roles and responsibilities reflect my commitment to project success, technical excellence, and effective collaboration in a dynamic environment.
+    technologies_used: | 
+      Java, OSGI, Apache Karaf, Blueprint, pax-exam, Apache Wicket, ActiveMQ, JGit,  Lucene, FreeMarker, Groovy, Docker, JUnit, Selenium, Jenkins, Git, Maven, Eclipse, IntelliJ, Scrum, Confluence, JIRA
+  # Reference: Dr. Stefan Biffl, Dr. Richard Mordinyi
+
+  - role: Tutor
+    time: Oct 2007 – Mar 2011
+    company: Vienna University of Technology – QSE, Vienna, Austria
+    details: | 
+      Support and mentoring of several student groups (4-10 people) in the lectures 'Software Engineering and Project Management' and 'Advanced Software Engineering'.
+      Quality assurance and approval of lecture artifacts (code, project management, documentation).
+      Tutorials on Git and Maven
+    technologies_used: | 
+      Java, Swing, Spring, JBoss Seam, JUnit, Eclipse, Git, Maven, SVN, Redmine, Mantis
+
+  - role: Student Trainee
+    time: Apr 2000 – Aug 2000
+    company: Siemens EZE – QM, Vienna, Austria
+    details: | 
+      Office work and website programming/editing for EZE Quality Management staff section,  work at a conceptual design project for EZE intranet
+    technologies_used: | 
+      Javascript, HTML, XML
+
+  - role: Seeing practice
+    time: Feb 2000
+    company: Siemens TCN, Vienna, Austria
+    details: | 
+      Software development
+    technologies_used: | 
+      Java
 
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  - title: Organizing reuse for production systems engineering with capabilities and skills.
+    link: "https://doi.org/10.1515/auto-2022-0120"
+    authors: Kristof Meixner, Felix Rinker, Laura Waltersdorfer, Arndt Lüder, Stefan Biffl
+    conference: Automatisierungstechnik, 2023
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: A reference model for common understanding of capabilities and skills in manufacturing. 
+    link: "https://doi.org/10.1515/auto-2022-0117"
+    authors: Aljosha Köcher, Alexander Belyaev, Jesko Hermann, Jürgen Bock, Kristof Meixner, Magnus Volkmann, Michael Winter, Patrick Zimmermann, Stephan Grimm, Christian Diedrich
+    conference: Automatisierungstechnik, 2023
+
+  - title: Patterns for Reuse in Production Systems Engineering.
+    link: "https://doi.org/10.1142/S0218194021400155"
+    authors: Kristof Meixner, Arndt Lüder, Jan Herzog, Dietmar Winkler, Stefan Biffl:
+    conference: Internation Journal of Software Engineering & Knowledge Engineering
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title: UN Shadowing Programme 2015 
+    # link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Selection for the UN Shadowing Programme 2015 and attendance in November 2015 at the International Atomic Energy Agency Vienna.
 
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+#   - title: Cool Project 
+#     link: #
+#     details: |
+#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#       tempor incididunt ut labore et dolore magna aliqua.
 
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+# # Volunteering
+# volunteering:
+#   - time: 2020-Present
+#     role: PR Manager
+#     company: Some random organization
+#     details: |
+#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+#       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
