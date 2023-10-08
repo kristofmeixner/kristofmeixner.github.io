@@ -1,7 +1,7 @@
 title: CV | Kristof Meixner
-description:  Researcher and Software Engineer with strong problem solving skills, a wide range of knowledge in software development and project management and several years of work experience.
-url: https://kristofmeixner.github.io/
-baseurl: 'https://kristofmeixner.github.io/'
+description:  A beautiful template for your CV.
+url: https://kristofmeixner.github.io
+baseurl: ''
 theme_skin: blue
 
 sass:
