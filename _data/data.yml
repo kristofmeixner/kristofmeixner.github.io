@@ -9,7 +9,7 @@ contact:
   linkedin: kristofmeixner
   phone: 0043 664 1016454
   # gitlab: 
-  twitter: 
+  twitter: kristofmeixner
 
 languages:
   - idiom: German
@@ -17,8 +17,12 @@ languages:
   - idiom: Italian
 
 education:
+  - degree: Ph.D. in Computer Science
+    time: 2018 - present
+    university: TU Wien, Vienna, Austria
+
   - degree: MSc in Business Informatics
-    time: 2011-2018
+    time: 2011 - 2018
     university: TU Wien, Vienna, Austria
 
   - degree: BSc in Business Informatics
@@ -26,21 +30,22 @@ education:
     university: TU Wien, Vienna, Austria
 
 skills:
-  - category: Backend
+  - category: Programming Skills
     skill: 
-      - Java
-      # - Rust
-  # - category: Frontend
-  #   skill:
-  #     - React
-  #     - Typescript
-  - category: DevOps
+      - Java (Proficient)
+      - Java OSGI (Proficient)
+      - Maven (Proficient)
+      - Jenkins (Proficient)
+      - Artifactory (Proficient)
+      - Spring Boot
+      - PHP
+      - JavaScript (Basic)
+      - Eclipse RCP
+      - Eclipse EMF
+      - Nexus
+  - category: Soft skills
     skill:
-      - Jenkins
-      - Artifactory
-  - category: Build tools
-    skill:
-      - Maven
+      - 
 
 # Profile
 profile: |
