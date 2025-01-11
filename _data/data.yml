@@ -1,4 +1,4 @@
-name: Kristof Meixner
+name: DI Dr. tech. Kristof Meixner, BSc
 support_dark_mode: true
 fork: true
 
@@ -7,18 +7,18 @@ contact:
   email: kristof.meixner@fatlenny.net
   github: kristofmeixner
   linkedin: kristofmeixner
-  phone: 0043 664 1016454
+  # phone: 0043 664 1016454
   # gitlab: 
   twitter: kristofmeixner
 
 languages:
-  - idiom: German
-  - idiom: English
-  - idiom: Italian
+  - idiom: German (native)
+  - idiom: English (proficient)
+  - idiom: Italian (intermediate)
 
 education:
   - degree: Ph.D. in Computer Science
-    time: 2018 - present
+    time: 2018 - 2024
     university: TU Wien, Vienna, Austria
 
   - degree: MSc in Business Informatics
@@ -49,7 +49,8 @@ skills:
 
 # Profile
 profile: |
-  Researcher on Model-based (Software) Product Line Engineering for Cyber-Physical Production Systems and Software Engineer with strong problem solving skills, a wide range of knowledge in software development and project management as well as several years of work experience.
+  Kristof Meixner is a dedicated researcher in Model-based (Software) Product Line Engineering for Cyber-Physical Production Systems and an accomplished Software Engineer. With a strong problem-solving aptitude, Kristof boasts an extensive knowledge of software development and project management, coupled with several years of hands-on experience.
+  # Researcher on Model-based (Software) Product Line Engineering for Cyber-Physical Production Systems and Software Engineer with strong problem solving skills, a wide range of knowledge in software development and project management as well as several years of work experience.
 
 # Experience
 experience:
