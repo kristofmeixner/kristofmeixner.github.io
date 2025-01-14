@@ -207,7 +207,9 @@ scientificservice:
   - title: Organizer
     # link: #
     details: |
-      - International Workshop on Variability and Evolution of Software-Intensive Systems (VariVolution) at SPLC (2021, 2022, 2023)
+      <ul class="resume-item-list">
+        <li>International Workshop on Variability and Evolution of Software-Intensive Systems (VariVolution) at SPLC (2021, 2022, 2023)</li>
+      </ul>
       - Special Session on Capability- and Skill-based Engineering in Manufacturing at ETFA (2021, 2022, 2023, 2024)
       - Special Session on Software Engineering for Cyber-physical Production Systems at ETFA (2023, 2024)
       - Feature-oriented Software Development Meeting (FOSD) (2021)
