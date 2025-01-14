@@ -30,7 +30,7 @@ education:
     university: TU Wien, Vienna, Austria
 
 skills:
-  - category: Programming Skills
+  - category: Programming
     skill: 
       - Java (Proficient)
       - Java OSGI (Proficient)
@@ -43,13 +43,13 @@ skills:
       - Eclipse RCP
       - Eclipse EMF
       - Nexus
-  - category: Soft skills
+  - category: Soft
     skill:
-      - 
+      - Project Management
 
 # Profile
 profile: |
-  Kristof Meixner holds a PhD in Computer Science since 2024 and a Master’s degree in Business Informatics since 2018 from TU Wien, Austria, where he is currently a Postdoctoral Researcher in the Software Engineering research unit.
+  Kristof Meixner holds a PhD in Computer Science (2024) and a Master’s degree in Business Informatics (2018) from TU Wien, Austria, where he is currently a Postdoctoral Researcher in the Software Engineering research unit.
   Despite experiencing an accident in 2000 resulting in a spinal cord injury, making him dependent on a wheelchair, after a break, he resumed in 2003 and successfully completed his studies.
   His PhD research explored model-based software product line engineering for cyber-physical production systems, addressing the integration of interdependent models for products, processes, and resources.
   His work focuses on advancing software engineering by developing innovative methods, tools, and techniques to create reliable, reusable systems that improve quality, resilience, and user experience.
@@ -60,115 +60,121 @@ profile: |
   This combination of research and industry expertise drives his contributions to bridge the gap between theoretical innovation and real-world application in software engineering.
 
 # Experience
+
 experience:
-  - role: Researcher and PhD candidate
-    time: Mar 2018 – current
-    company: Christian Doppler Laboratory for Security and Quality Improvement in Production Systems, Vienna, Austria
-    details: | 
-      Research on a Framework for Reuse and Variability Management integrating Feature and Decision Models for Cyber-Physical Production Systems Engineering.
-      • Research on a Framework for Capabilities and Skills for Cyber-Physical Production Systems Engineering.
-      • Research on a Test Automation Framework for flexible integration of technologies and tools for Software Testing.
-      • Establishing of two international research collaborations in the field of Product Line Engineering for Cyber-Physical Production Systems.
-      • Organizer of the Special Sessions of Software Engineering for Cyber-Physical Production Systems and Capabilities and Skills for Systems Engineering.
-      • Supervision of students, their theses and work experiences.
-      • Regular consulting on Maven, JIRA and JFrog Artifactory for industry partners.
-    technologies_used: | 
-      Java, Eclipse RCP, Eclipse EMF, OMG ASTM, Gherkin, JIRA-Development, Spring Boot
+   - role: Postdoctoral Researcher
+     time: Dec 2024 - present
+     company: Institute of Information Systems Engineering, TU Wien, Vienna, Austria
 
-  - role: Freelancer
-    time: Sep 2003 – current
-    company: Various customers
-    details: |
-      Design and implementation of prototypes.
-      • Consulting on computer systems, networking and websites.
-      • Support and trouble shooting for computers and websites.
-    technologies_used: | 
-      Java, HTML, PHP, JavaScript, Adobe InDesign, Adobe Illustrator
-
-  - role: ICT Consultant
-    time: Sep 2003 – Jan 2019
-    company: Kleintierklinik Breitensee, Vienna, Austria
-    details: | 
-      Consulting on computer systems, networking and internet presence.
-      Support and trouble shooting for servers, infrastructure and internet presence.
-      Design and creation of corporate design materials (workshop posters and programs, folders, ...).
-    technologies_used: | 
-      Windows Server 2003, Windows XP/7, Apple Mac, Netgear Routers & Switches, HTML, PHP, JavaScript, Adobe InDesign, Adobe Illustrator
+experience:
+  - role: Researcher
+    time: Mar 2018 – Dec 2024
+    company: Christian Doppler Laboratory for Security and Quality Improvement in Production Systems, TU Wien, Vienna, Austria
+    # details: | 
+    #   Research on a Framework for Reuse and Variability Management integrating Feature and Decision Models for Cyber-Physical Production Systems Engineering.
+    #   • Research on a Framework for Capabilities and Skills for Cyber-Physical Production Systems Engineering.
+    #   • Research on a Test Automation Framework for flexible integration of technologies and tools for Software Testing.
+    #   • Establishing of two international research collaborations in the field of Product Line Engineering for Cyber-Physical Production Systems.
+    #   • Organizer of the Special Sessions of Software Engineering for Cyber-Physical Production Systems and Capabilities and Skills for Systems Engineering.
+    #   • Supervision of students, their theses and work experiences.
+    #   • Regular consulting on Maven, JIRA and JFrog Artifactory for industry partners.
+    # technologies_used: | 
+    #   Java, Eclipse RCP, Eclipse EMF, OMG ASTM, Gherkin, JIRA-Development, Spring Boot
 
   - role: Software Developer
     time: Jan 2018 – Feb 2018
-    company: Christian Doppler Laboratory for Security and Quality Improvement in Production Systems, Vienna, Austria
-    details: | 
-      Development of a prototype for  automated creation of tests from legacy code via an Abstract Syntax Tree.
-    technologies_used: | 
-      Java, Eclipse RCP, Eclipse EMF, OMG ASTM
+    company: Christian Doppler Laboratory for Security and Quality Improvement in Production Systems, TU Wien, Vienna, Austria
+    # details: | 
+    #   Development of a prototype for  automated creation of tests from legacy code via an Abstract Syntax Tree.
+    # technologies_used: | 
+    #   Java, Eclipse RCP, Eclipse EMF, OMG ASTM
 
   - role: Software Consultant
     time: Jan 2017 – Dec 2017
     company: logi.cals, St. Pölten, Austria
-    details: |
-      Consulting for AML.hub Development and Build Automation
-    technologies_used: | 
-      Java, Jenkins
+    # details: |
+    #   Consulting for AML.hub Development and Build Automation
+    # technologies_used: | 
+    #   Java, Jenkins
     # Reference: Heinrich Steininger, Cristopher Steele
 
   - role: Software Developer
     time: May 2017 – Dec 2017
-    company: Quality Software Engineering - Information and Software Engineering Group, Vienna, Austria
-    details: |
-      Development of a prototype for the creation of ‚Behaviour-Driven-Tests‘ for robot simulations in JIRA
-    technologies_used: | 
-      Java, Gherkin, JIRA-Development, Spring Boot
+    company: Quality Software Engineering Group, TU Wien, Vienna, Austria
+    # details: |
+    #   Development of a prototype for the creation of ‚Behaviour-Driven-Tests‘ for robot simulations in JIRA
+    # technologies_used: | 
+    #   Java, Gherkin, JIRA-Development, Spring Boot
     # Reference: Dr. Stefan Biffl
 
   - role: Software Developer and Lead Software Developer
     time: Jan 2010 – Dec 2016
     company: Christian Doppler Laboratory for Flexible Automation Systems, Vienna, Austria
-    details: | 
-      Multifaceted role in project management, development, and technical leadership. Key responsibilities and contributions include:
-      • Stakeholder Engagement: Regularly attending stakeholder and partner meetings for project planning and progress reporting, ensuring effective communication and alignment.
-      • Customer-Centric Approach: Active involvement in customer meetings and support sessions enabled a deeper understanding of customer needs, facilitating tailored solutions.
-      • Project Planning and Architecture: Pivotal role in planning, architecting, and estimating efforts for features and components, ensuring structured project execution.
-      • Agile Project Management: Responsible for sprint planning, defining developer roles, and coordinating external developers, promoting Agile practices for efficient project delivery.
-      • Release Management: Release planning and version management, ensuring high-quality, timely software deliveries.
-      • Leadership and Collaboration: Leading Scrum, status, and architectural meetings with a diverse team of 5+ developers, fostering collaboration and maintaining project focus.
-      • Quality Assurance: Gatekeeper for feature and component integration, ensuring that deliverables met defined criteria before release.
-      • Documentation: Technical documentation for both developers and customers, enhancing project understanding and implementation.
-      • Infrastructure Oversight: Managing 250+ repositories with interdependencies ensured their stability and accessibility.
-      • Tool and Environment Setup: Design, implementation, and administration a comprehensive tool and development environment, optimizing team productivity.
-      • Quality Assurance and CI/CD: Implementation of a robust quality assurance and continuous integration system, integrating tools like Maven, Checkstyle, PMD, FindBugs, Selenium, and Jenkins for efficient software development.
-      • Technical Support: Regular technical support to partner companies, for Git, Maven, Jenkins, and Apache Karaf-related issues.
-      • Open Source Contribution: Valuable contributions to Open Source projects like Apache Karaf, Pax Wicket, Jenkins Plugins, and Smooks leading to authorization for releases at ops4j, OpenEngSB, and CDLFlex.
-      • These roles and responsibilities reflect my commitment to project success, technical excellence, and effective collaboration in a dynamic environment.
-    technologies_used: | 
-      Java, OSGI, Apache Karaf, Blueprint, pax-exam, Apache Wicket, ActiveMQ, JGit,  Lucene, FreeMarker, Groovy, Docker, JUnit, Selenium, Jenkins, Git, Maven, Eclipse, IntelliJ, Scrum, Confluence, JIRA
+    # details: | 
+    #   Multifaceted role in project management, development, and technical leadership. Key responsibilities and contributions include:
+    #   • Stakeholder Engagement: Regularly attending stakeholder and partner meetings for project planning and progress reporting, ensuring effective communication and alignment.
+    #   • Customer-Centric Approach: Active involvement in customer meetings and support sessions enabled a deeper understanding of customer needs, facilitating tailored solutions.
+    #   • Project Planning and Architecture: Pivotal role in planning, architecting, and estimating efforts for features and components, ensuring structured project execution.
+    #   • Agile Project Management: Responsible for sprint planning, defining developer roles, and coordinating external developers, promoting Agile practices for efficient project delivery.
+    #   • Release Management: Release planning and version management, ensuring high-quality, timely software deliveries.
+    #   • Leadership and Collaboration: Leading Scrum, status, and architectural meetings with a diverse team of 5+ developers, fostering collaboration and maintaining project focus.
+    #   • Quality Assurance: Gatekeeper for feature and component integration, ensuring that deliverables met defined criteria before release.
+    #   • Documentation: Technical documentation for both developers and customers, enhancing project understanding and implementation.
+    #   • Infrastructure Oversight: Managing 250+ repositories with interdependencies ensured their stability and accessibility.
+    #   • Tool and Environment Setup: Design, implementation, and administration a comprehensive tool and development environment, optimizing team productivity.
+    #   • Quality Assurance and CI/CD: Implementation of a robust quality assurance and continuous integration system, integrating tools like Maven, Checkstyle, PMD, FindBugs, Selenium, and Jenkins for efficient software development.
+    #   • Technical Support: Regular technical support to partner companies, for Git, Maven, Jenkins, and Apache Karaf-related issues.
+    #   • Open Source Contribution: Valuable contributions to Open Source projects like Apache Karaf, Pax Wicket, Jenkins Plugins, and Smooks leading to authorization for releases at ops4j, OpenEngSB, and CDLFlex.
+    #   • These roles and responsibilities reflect my commitment to project success, technical excellence, and effective collaboration in a dynamic environment.
+    # technologies_used: | 
+    #   Java, OSGI, Apache Karaf, Blueprint, pax-exam, Apache Wicket, ActiveMQ, JGit,  Lucene, FreeMarker, Groovy, Docker, JUnit, Selenium, Jenkins, Git, Maven, Eclipse, IntelliJ, Scrum, Confluence, JIRA
   # Reference: Dr. Stefan Biffl, Dr. Richard Mordinyi
 
-  - role: Tutor
+  - role: Freelancer
+    time: Sep 2003 – present
+    company: Various customers, Remote, Vienna, Austria
+    # details: |
+    #   Design and implementation of prototypes.
+    #   • Consulting on computer systems, networking and websites.
+    #   • Support and trouble shooting for computers and websites.
+    # technologies_used: | 
+    #   Java, HTML, PHP, JavaScript, Adobe InDesign, Adobe Illustrator
+
+  - role: ICT Consultant
+    time: Sep 2003 – Jan 2019
+    company: Kleintierklinik Breitensee, Vienna, Austria
+    # details: | 
+    #   Consulting on computer systems, networking and internet presence.
+    #   Support and trouble shooting for servers, infrastructure and internet presence.
+    #   Design and creation of corporate design materials (workshop posters and programs, folders, ...).
+    # technologies_used: | 
+    #   Windows Server 2003, Windows XP/7, Apple Mac, Netgear Routers & Switches, HTML, PHP, JavaScript, Adobe InDesign, Adobe Illustrator
+
+  - role: Software Engineering Tutor
     time: Oct 2007 – Mar 2011
-    company: TU Wien – QSE, Vienna, Austria
-    details: | 
-      Support and mentoring of several student groups (4-10 people) in the lectures 'Software Engineering and Project Management' and 'Advanced Software Engineering'.
-      Quality assurance and approval of lecture artifacts (code, project management, documentation).
-      Tutorials on Git and Maven
-    technologies_used: | 
-      Java, Swing, Spring, JBoss Seam, JUnit, Eclipse, Git, Maven, SVN, Redmine, Mantis
+    company: Quality Software Engineering Group, TU Wien, Vienna, Austria
+    # details: | 
+    #   Support and mentoring of several student groups (4-10 people) in the lectures 'Software Engineering and Project Management' and 'Advanced Software Engineering'.
+    #   Quality assurance and approval of lecture artifacts (code, project management, documentation).
+    #   Tutorials on Git and Maven
+    # technologies_used: | 
+    #   Java, Swing, Spring, JBoss Seam, JUnit, Eclipse, Git, Maven, SVN, Redmine, Mantis
 
   - role: Student Trainee
     time: Apr 2000 – Aug 2000
-    company: Siemens EZE – QM, Vienna, Austria
-    details: | 
-      Office work and website programming/editing for EZE Quality Management staff section,  work at a conceptual design project for EZE intranet
-    technologies_used: | 
-      Javascript, HTML, XML
+    company: Siemens EZE – Quality Management, Vienna, Austria
+    # details: | 
+    #   Office work and website programming/editing for EZE Quality Management staff section,  work at a conceptual design project for EZE intranet
+    # technologies_used: | 
+    #   Javascript, HTML, XML
 
-  - role: Seeing practice
+  - role: Internship
     time: Feb 2000
     company: Siemens TCN, Vienna, Austria
-    details: | 
-      Software development
-    technologies_used: | 
-      Java
+    # details: | 
+    #   Software development
+    # technologies_used: | 
+    #   Java
 
 publications:
   - title: Organizing reuse for production systems engineering with capabilities and skills.
