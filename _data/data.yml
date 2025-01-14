@@ -236,17 +236,43 @@ scientificservice:
         <li>Software Quality Days (SWQD) (2019, 2020, 2021, 2023)</li>
       </ul>
 
+teaching:
+    - role: Lecturer in ``Advanced Software Engineering''
+      time: 2018 -- present
+      company: Master's course, TU Wien, Vienna, Austria
+    
+    - role: Lecturer in ``Software Engineering and Project Management''
+      time: 2018 -- present
+      company: Bachelor's course, TU Wien, Vienna, Austria
+    
+    - role: Lecturer in ``Seminar in Software Engineering''
+      time: 2018 -- present
+      company: Master's course, TU Wien, Vienna, Austria
+    
+    - role: Lecturer in ``Scientific Research and Writing''
+      time: 2020 -- present
+      company: Bachelor's course, TU Wien, Vienna, Austria
+
+    - role: Guest Lecturer at ``Convide Lecture Series''
+      time: Summer term 2024
+      company: Master's course, KIT, Karlsruhe, Germany
+      details: |
+        Convide Lecture Series -- Product Lines Beyond Software -- How Cyber-Physical Production Systems Challenge Software Product Line Approaches - <a href="https://www.sfb1608.kit.edu/206.php">Convide</a>
+    
+    - role: Lecturer in ``Business Intelligence''
+      time: Winter term 2020
+      company: Master's course, TU Wien, Vienna, Austria
+    
+    - role: Lecturer in ``Business Process Modeling''
+      time: Winter term 2020
+      company: Bachelor's course, TU Wien, Vienna, Austria
+
 # projects:
 #   - title: UN Shadowing Programme 2015 
-#     # link: #
+#     link: #
 #     details: |
 #       UN Shadowing Programme 2015 at the International Atomic Energy Agency Vienna.
 
-#   - title: Cool Project 
-#     link: #
-#     details: |
-#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-#       tempor incididunt ut labore et dolore magna aliqua.
 
 volunteering:
   - time: Nov 2015
