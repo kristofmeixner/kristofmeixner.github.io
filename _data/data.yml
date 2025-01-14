@@ -62,9 +62,10 @@ profile: |
 # Experience
 
 experience:
-   - role: Postdoctoral Researcher
-     time: Dec 2024 - present
-     company: Institute of Information Systems Engineering, TU Wien, Vienna, Austria
+  - role: Postdoctoral Researcher
+    time: Dec 2024 - present
+    company: Institute of Information Systems Engineering, TU Wien, Vienna, Austria
+
 
 experience:
   - role: Researcher
@@ -192,11 +193,11 @@ publications:
     authors: Kristof Meixner, Arndt Lüder, Jan Herzog, Dietmar Winkler, Stefan Biffl
     conference: Internation Journal of Software Engineering and Knowledge Engineering, 2021
 
-projects:
-  - title: UN Shadowing Programme 2015 
-    # link: #
-    details: |
-      Selection for the UN Shadowing Programme 2015 and attendance in November 2015 at the International Atomic Energy Agency Vienna.
+# projects:
+#   - title: UN Shadowing Programme 2015 
+#     # link: #
+#     details: |
+#       UN Shadowing Programme 2015 at the International Atomic Energy Agency Vienna.
 
 #   - title: Cool Project 
 #     link: #
@@ -204,12 +205,9 @@ projects:
 #       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
 #       tempor incididunt ut labore et dolore magna aliqua.
 
-# # Volunteering
-# volunteering:
-#   - time: 2020-Present
-#     role: PR Manager
-#     company: Some random organization
-#     details: |
-#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-#       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-#       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+volunteering:
+  - time: Nov 2015
+    role: ICT Shadow
+    company: UN IAEA, Vienna, Austria
+    details: |
+      UN Shadowing Programme 2015 at the International Atomic Energy Agency Vienna
