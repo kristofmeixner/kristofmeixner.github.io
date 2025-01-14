@@ -4,12 +4,15 @@
     <h2 class="title">Projects</h2>
     {% for sci in scientificservice %}
         <div class="project">
-            <span>
+            <div class="role">
+                {{sci.title}}
+            </div>
+            <!-- <span>
                 <a class="project-link" href="{{sci.link}}">
                     {{sci.title}}
                 </a>
-            </span>
-            <span class="details">- {{sci.details}}</span>
+            </span> -->
+            <div class="details">- {{sci.details}}</div>
         </div>
     {% endfor %}
 </section>

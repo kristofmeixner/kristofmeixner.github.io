@@ -201,7 +201,7 @@ facultyservice:
     time: Dec 2016
     company: TU Wien, Vienna, Austria
     details: |
-      Representative in TU Wien Diversity Team for the Diversitas 2016 Award - https://www.tuwien.at/tu-wien/aktuelles/news/diversitas-2016-auszeichnung-fuer-tu-wien
+      Representative in TU Wien Diversity Team for the Diversitas 2016 Award - <a href='https://www.tuwien.at/tu-wien/aktuelles/news/diversitas-2016-auszeichnung-fuer-tu-wien'>TU Wien Diversitas 2016 Auszeichnung</a>
 
 scientificservice:
   - title: Organizer
@@ -209,10 +209,10 @@ scientificservice:
     details: |
       <ul class="resume-item-list">
         <li>International Workshop on Variability and Evolution of Software-Intensive Systems (VariVolution) at SPLC (2021, 2022, 2023)</li>
+        <li>Special Session on Capability- and Skill-based Engineering in Manufacturing at ETFA (2021, 2022, 2023, 2024)</li>
+        <li>Special Session on Software Engineering for Cyber-physical Production Systems at ETFA (2023, 2024)</li>
+        <li>Feature-oriented Software Development Meeting (FOSD) (2021)</li>
       </ul>
-      - Special Session on Capability- and Skill-based Engineering in Manufacturing at ETFA (2021, 2022, 2023, 2024)
-      - Special Session on Software Engineering for Cyber-physical Production Systems at ETFA (2023, 2024)
-      - Feature-oriented Software Development Meeting (FOSD) (2021)
 
 # projects:
 #   - title: UN Shadowing Programme 2015 
