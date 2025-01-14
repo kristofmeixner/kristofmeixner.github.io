@@ -1,0 +1,20 @@
+{% assign facultyservice = site.data.data.facultyservice %}
+{% if facultyservice %}
+<section class="facultyservice">
+    <h2 class="title">Faculty Service</h2>
+    {% for fac in facultyservice %}
+        <div class="facultyservice-item">
+            <div class="role">
+                {{fac.role}}
+            </div>
+            <div class="company">
+                {{fac.company}} 
+                <span class="time">{{fac.time}}</span>
+            </div> 
+            <div class="details">{{fac.details}}</div>
+            <p></p>
+        </div>
+       
+    {% endfor %}
+</section>
+{% endif %}
