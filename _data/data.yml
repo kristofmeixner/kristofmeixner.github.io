@@ -60,14 +60,11 @@ profile: |
   This combination of research and industry expertise drives his contributions to bridge the gap between theoretical innovation and real-world application in software engineering.
 
 # Experience
-
 experience:
   - role: Postdoctoral Researcher
     time: Dec 2024 - present
     company: Institute of Information Systems Engineering, TU Wien, Vienna, Austria
 
-
-experience:
   - role: Researcher
     time: Mar 2018 – Dec 2024
     company: Christian Doppler Laboratory for Security and Quality Improvement in Production Systems, TU Wien, Vienna, Austria
@@ -192,6 +189,28 @@ publications:
     link: "https://doi.org/10.1142/S0218194021400155"
     authors: Kristof Meixner, Arndt Lüder, Jan Herzog, Dietmar Winkler, Stefan Biffl
     conference: Internation Journal of Software Engineering and Knowledge Engineering, 2021
+
+facultyservice:
+  - role: Research Unit Representative
+    time: Oct 2017 - present
+    company: Software Engineering Research Unit, TU Wien, Vienna, Austria
+    details: |
+      Representative for the Research Unit Software Engineering in the Scientific Staff Council
+
+  - role: TU Wien Diversitas Representative
+    time: Dec 2016
+    company: TU Wien, Vienna, Austria
+    details: |
+      Representative in TU Wien Diversity Team for the Diversitas 2016 Award - https://www.tuwien.at/tu-wien/aktuelles/news/diversitas-2016-auszeichnung-fuer-tu-wien
+
+scientificservice:
+  - title: Organizer
+    # link: #
+    details: |
+      International Workshop on Variability and Evolution of Software-Intensive Systems (VariVolution) at SPLC (2021, 2022, 2023)
+      Special Session on Capability- and Skill-based Engineering in Manufacturing at ETFA (2021, 2022, 2023, 2024)
+      Special Session on Software Engineering for Cyber-physical Production Systems at ETFA (2023, 2024)
+      Feature-oriented Software Development Meeting (FOSD) (2021)
 
 # projects:
 #   - title: UN Shadowing Programme 2015 
