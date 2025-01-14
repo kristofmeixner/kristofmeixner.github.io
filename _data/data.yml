@@ -257,7 +257,7 @@ teaching:
       time: Summer term 2024
       company: Master's course, KIT, Karlsruhe, Germany
       details: |
-        Convide Lecture Series -- Product Lines Beyond Software -- How Cyber-Physical Production Systems Challenge Software Product Line Approaches - <a href="https://www.sfb1608.kit.edu/206.php">Convide</a>
+        Convide Lecture Series -- Product Lines Beyond Software -- How Cyber-Physical Production Systems Challenge Software Product Line Approaches - <a href="https://www.sfb1608.kit.edu/206.php">Convide Lecture Series</a>
     
     - role: Lecturer in ``Business Intelligence''
       time: Winter term 2020
@@ -272,7 +272,6 @@ teaching:
 #     link: #
 #     details: |
 #       UN Shadowing Programme 2015 at the International Atomic Energy Agency Vienna.
-
 
 volunteering:
   - time: Nov 2015
