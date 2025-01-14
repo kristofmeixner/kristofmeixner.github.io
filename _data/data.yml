@@ -214,6 +214,28 @@ scientificservice:
         <li>Feature-oriented Software Development Meeting (FOSD) (2021)</li>
       </ul>
 
+  - title: Journal Review
+    # link: #
+    details: |
+      <ul class="resume-item-list">
+        <li>Journal of Systems and Software (2022, 2024)</li>
+        <li>Expert Systems with Applications (2023)</li>
+        <li>Journal of Cleaner Production (2023)</li>
+        <li>International Journal on Software Engineering and Knowledge Engineering (2021)</li>
+        <li>Automatisierungstechnik (2021, 2023, 2024)</li>
+      </ul>
+
+  - title: Programme Committee Mitglied
+    # link: #
+    details: |
+      <ul class="resume-item-list">
+        <li>IEEE International Conference on Emerging Technologies and Factory Automation (ETFA) (2020-2024)</li>
+        <li>International Systems and Software Product Line Conference (SPLC) Artifact Track (2021, 2022, 2023)</li>
+        <li>International Conference on Software Engineering & Knowledge Engineering (SEKE) (2022)</li>
+        <li>IEEE International Conference on Business Informatics (CBI) (2022, 2024)</li>
+        <li>Software Quality Days (SWQD) (2019, 2020, 2021, 2023)</li>
+      </ul>
+
 # projects:
 #   - title: UN Shadowing Programme 2015 
 #     # link: #
