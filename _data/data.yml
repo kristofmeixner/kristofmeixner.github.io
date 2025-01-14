@@ -10,6 +10,7 @@ contact:
   # phone: 0043 664 1016454
   # gitlab: 
   twitter: kristofmeixner
+  orcid: 0000-0001-7286-1393
 
 languages:
   - idiom: German (native)
@@ -243,6 +244,11 @@ experience:
     #   Java
 
 publications:
+  - title: Variability Modeling of Products, Processes, and Resources in Cyber-Physical Production Systems Engineering.
+    link: "https://doi.org/10.1016/j.jss.2024.112007"
+    authors: Kristof Meixner, Kevin Feichtinger, Sandra Greiner, Hannes Marcher, Hafiyyan Sayyid Fadhlillah, Rick Rabiser, Stefan Biffl
+    conference: Journal of Systems and Software, 2024
+
   - title: Organizing reuse for production systems engineering with capabilities and skills.
     link: "https://doi.org/10.1515/auto-2022-0120"
     authors: Kristof Meixner, Felix Rinker, Laura Waltersdorfer, Arndt Lüder, Stefan Biffl
@@ -256,7 +262,17 @@ publications:
   - title: Patterns for Reuse in Production Systems Engineering.
     link: "https://doi.org/10.1142/S0218194021400155"
     authors: Kristof Meixner, Arndt Lüder, Jan Herzog, Dietmar Winkler, Stefan Biffl
-    conference: Internation Journal of Software Engineering and Knowledge Engineering, 2021
+    conference: International Journal of Software Engineering and Knowledge Engineering, 2021
+
+  - title: A reusable set of real-world product line case studies for comparing variability models in research and practice.
+    link: "https://doi.org/10.1145/3461002.3473946"
+    authors: Kristof Meixner, Kevin Feichtinger, Rick Rabiser, Stefan Biffl
+    conference: International Systems and Software Product Line Conference, 2021
+
+  - title: A Domain-Specific Language for Product-Process-Resource Modeling
+    link: "https://doi.org/10.1109/ETFA45728.2021.9613674"
+    authors: Kristof Meixner, Felix Rinker, Hannes Marcher, Jakob Decker, Stefan Biffl
+    conference: International Conference on Emerging Technologies and Factory Automation, 2021
 
 facultyservice:
   - role: Research Unit Representative

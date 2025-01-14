@@ -55,5 +55,14 @@
             </a>
         </div>
     {% endif %}
+
+    {% if contact.orcid %}
+        <div class="contact-item">
+            <i data-feather="target"></i>
+            <a href="https://orcid.org/{{contact.orcid}}">
+                {{contact.orcid}}
+            </a>
+        </div>
+    {% endif %}
 </section>
 {% endif %}
