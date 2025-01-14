@@ -1,0 +1,21 @@
+{% assign advisees = site.data.data.advisees %}
+{% if advisees %}
+<section class="adviseeeriance">
+    <h2 class="title">Advisees</h2>
+    {% for advisee in advisees %}
+        <div class="advisees-item">
+            <div class="role">
+                {{advisee.role}}
+            </div>
+            <div class="company">
+                {{advisee.company}} 
+                <span class="time">{{advisee.time}}</span>
+            </div> 
+            <div class="details">{{advisee.details}}</div>
+            <!-- <p class="technologies">Technologies Used: {{advisee.technologies_used}}</p> -->
+            <p></p>
+        </div>
+       
+    {% endfor %}
+</section>
+{% endif %}

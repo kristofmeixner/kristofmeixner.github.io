@@ -214,7 +214,7 @@ scientificservice:
         <li>Feature-oriented Software Development Meeting (FOSD) (2021)</li>
       </ul>
 
-  - title: Journal Review
+  - title: Journal Reviewer
     # link: #
     details: |
       <ul class="resume-item-list">
@@ -225,7 +225,7 @@ scientificservice:
         <li>Automatisierungstechnik (2021, 2023, 2024)</li>
       </ul>
 
-  - title: Programme Committee Mitglied
+  - title: Programme Committee Member
     # link: #
     details: |
       <ul class="resume-item-list">
@@ -272,6 +272,62 @@ teaching:
 #     link: #
 #     details: |
 #       UN Shadowing Programme 2015 at the International Atomic Energy Agency Vienna.
+
+# Advisees
+advisees:
+  - role: Diana Vysoka
+    time: 2024
+    company: Master’s thesis
+    details: |
+      Multi-domain Change Impact Analysis for Agile Cyber-Physical Production Systems Engineering
+
+  - role: Kevin Knecht
+    time: 2023
+    company: Bachelor’s thesis
+    details: |
+      Information Propagation in Multi-View Graphs Applications in Cyber-Physical Production Systems Engineering
+  
+  - role: Christoph Burger
+    time: 2022
+    company: Master’s thesis
+    details: |
+      Model difference analysis for CPPS engineering models with variability
+  
+  - role: Victor Olusesi
+    time: 2023
+    company: Bachelor’s thesis
+    details: |
+      A Transformation Framework for CPPS Artifacts into PPR-DSL Translations
+  
+  - role: Philp Liszt
+    time: 2021
+    company: Bachelor’s thesis
+    details: |
+      Handling Variability in Production Systems Engineering - Feature and Resource Identification from Product Process Resource Model Variants
+  
+  - role: Xuan Phuong
+    time: 2021
+    company: Bachelor’s thesis
+    details: |
+      Migration of Industrial Engineering Databases - A Case Study in a Cyber-Physical Production System Setting
+  
+  - role: Jakob Decker
+    time: 2020
+    company: Bachelor’s thesis
+    details: |
+      A DSL to Store and Evaluate PPR Assembly Sequences for Multi-Disciplinary Engineering
+  
+  - role: Hannes Marcher
+    time: 2020
+    company: Bachelor’s thesis
+    details: |
+      PPR Consistency Dependency Language for CPPS Engineering
+  
+  - role: Michael Wapp
+    time: 2019
+    company: Master’s thesis
+    details: |
+      Performance of paradigms for storing and querying multidisciplinary engineering models
 
 volunteering:
   - time: Nov 2015
