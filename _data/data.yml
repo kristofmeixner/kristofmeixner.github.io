@@ -32,20 +32,88 @@ education:
 skills:
   - category: Programming
     skill: 
-      - Java (Proficient)
-      - Java OSGI (Proficient)
-      - Maven (Proficient)
-      - Jenkins (Proficient)
-      - Artifactory (Proficient)
-      - Spring Boot
+      - Java
+      - JavaScript
+      - Python
+      - Groovy
       - PHP
-      - JavaScript (Basic)
-      - Eclipse RCP
-      - Eclipse EMF
-      - Nexus
-  - category: Soft
+      - Bash
+      - XML/HTML
+      - JSON
+      - UML
+  - category: IDEs
     skill:
-      - Project Management
+      - Eclipse
+      - IntelliJ
+      - VS Code
+  - category: SCM
+    skill:
+      - Git
+      - SVN
+      - Mercurial
+  - category: Build
+    skill:
+      - Maven
+      - Ant
+  - category: Testing
+    skill:
+      - JUnit
+      - Selenium
+      - Jenkins
+  - category: Databases
+    skill:
+      - MySQL
+      - PostgreSQL
+      - HSQLDB
+      - H2
+  - category: Web
+    skill:
+      - Apache HTTP
+      - Tomcat
+      - Jetty
+  - category: Container
+    skill:
+      - Docker
+      - Vagrant
+  - category: Repositories
+    skill:
+      - Artifactory
+      - Nexus
+  - category: OSs
+    skill:
+      - Linux (Ubuntu, Debian)
+      - Mac OSX
+      - Microsoft Windows (7/10)
+  - category: Documentation
+    skill:
+    - Confluence
+    - JIRA
+    - Mircosoft Office
+    - Libre Office
+    - Latex
+    - Visio
+    - Mendeley
+    - JabRef
+  - category: Methods
+    skill:
+    - Scrum
+    - Pair programming
+    - TDD
+  - category: Frameworks
+    skill:
+      - Java OSGI
+      - Apache Karaf
+      - Blueprint
+      - pax-exam
+      - Apache Wicket
+      - ActiveMQ
+      - JGit
+      - Lucene
+      - FreeMarker
+      - Groovy
+      - Google Guice
+      - Smooks
+      - Spring Boot
 
 # Profile
 profile: |
